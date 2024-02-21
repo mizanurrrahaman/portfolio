@@ -10,20 +10,20 @@ const Exprience = () => {
    transition: {duration:.5}}} className=" gap-12 w-full flex">
     <div>
     <div className="py-12 font-titleFont">
-    <p className="text-sm text-red-600 tracking-[4px]"> 2010 - 2022</p>
+    <p className="text-sm text-red-600 tracking-[4px]"> 2020 - 2022</p>
     <h2 className="text-4xl font-bold">Job Experience</h2>
  </div>
 <div className=" w-full mt-14 h-[1000px] border-l-[6px] border-l-black     border-opacity-30 flex flex-col gap-10">
     <ResumeCarde
-    title=" BCs in Computer Science"
-    subTitle = "University of DVI (2006-2010)"
-    result="3.90/4"
+    title="  Science"
+    subTitle = "collage (2018-2020)"
+    result="3.83"
     des="The training provided by universities in order to prepare people to work in various sectors of the economy or areas of culture." 
     />
     <ResumeCarde
-    title="AS - Science & Information"
-    subTitle = "SuperKing College (2001 - 2005)"
-    result="4.75/5"
+    title="student"
+    subTitle = "Goni Modil High School"
+    result="3.75"
     des="Higher education is tertiary education leading to award of an academic degree. Higher education, also called post-secondary education." 
     />
      <ResumeCarde

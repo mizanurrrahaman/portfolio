@@ -97,7 +97,42 @@ const Testimonial = () => {
           <div className='w-full'>
             <div className='w-full h-[500px] flex justify-between'>
              <div className="w-[35%] h-full bg-gradient-to-r from-[#1e2024] to-[#23272b] p-8 rounded-lg  shadow-shadowOne flex flex-col gap-8 justify-center">
-             <img className="h-72 rounded-lg object-cover" src="public/testimonialOne.png" alt=" not found" />
+             <img className="h-72 rounded-lg object-cover" src="https://media.istockphoto.com/id/486844306/photo/small-business-owner.jpg?s=1024x1024&w=is&k=20&c=tVFrP_yC_SedvVn0L-w1L6nnUzP1PYNQZtJVmjC5aA4=" alt=" not found" />
+             <div>
+               <p className="text-xs uppercase text-red-600 tracking-wide mb-2"> Bound - Trolola</p>
+                <h3 className="text-2xl font-bold"> MD: Manik Arafat </h3>
+                <p className="text-base tracking-wide text-gray-500"> Operation Officer</p>
+             </div>
+             </div>
+             <div className="w-[60%] h-full ">
+               <img className="w-[20%]" src="public/quote.png" alt="not found" /> 
+                
+                <div className="w-full h-[70%] py-10 bg-gradient-to-r from-[#1e2024] shadow-shadowOne p-8 ">
+                  <div className="flex justify-between items-center by-6 border-b-2 border-b-gray-900 pb-10">
+                     <div>
+                         <h3 className="text-3xl font-medium tracking-wide"> Travel Mobile App Design.</h3>
+                         <p className="text-lg text-gray-400 mt-3"> Via UpWork - Mar 4, 2015 -Aug 30, 2021 test</p>
+                     </div>
+                      <div className="flex gap-1  text-yellow-500">
+                      <IoStarSharp />
+                      <IoStarSharp />
+                      <IoStarSharp />
+                      <IoStarSharp />
+                      <IoStarSharp />
+                      </div>
+                  </div>
+                  <p className="text-lg font-titleFont text-gray-400 font-medium tracking-wide leading-6 pt-[20px]"> 
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere in accusantium consequatur mollitia corporis blanditiis, voluptatibus soluta ipsam deleniti quae perferendis ratione voluptatum cupiditate iusto placeat assumenda perspiciatis quibusdam praesentium?
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className='w-full'>
+            <div className='w-full h-[500px] flex justify-between'>
+             <div className="w-[35%] h-full bg-gradient-to-r from-[#1e2024] to-[#23272b] p-8 rounded-lg  shadow-shadowOne flex flex-col gap-8 justify-center">
+             {/* <img className="h-72 rounded-lg object-cover" src="public/testimonialTwo.png" alt=" not found" /> */}
+             <img className="h-72 rounded-lg object-cover" src="https://media.istockphoto.com/id/172327787/photo/one-cheerful-indian-adult-male-people-smiling-horizontal-natural-light.jpg?s=1024x1024&w=is&k=20&c=9qz7jrXPfQxueva2OVMDvJixnrQt2tQOkxhG4sspDq0=" alt=" not found" />
              <div>
                <p className="text-xs uppercase text-red-600 tracking-wide mb-2"> Bound - Trolola</p>
                 <h3 className="text-2xl font-bold"> Jone Duone Joe</h3>
@@ -130,43 +165,10 @@ const Testimonial = () => {
           <div className='w-full'>
             <div className='w-full h-[500px] flex justify-between'>
              <div className="w-[35%] h-full bg-gradient-to-r from-[#1e2024] to-[#23272b] p-8 rounded-lg  shadow-shadowOne flex flex-col gap-8 justify-center">
-             <img className="h-72 rounded-lg object-cover" src="public/testimonialTwo.png" alt=" not found" />
+             <img className="h-72 rounded-lg object-cover" src="https://media.istockphoto.com/id/171237962/photo/male-business-professional.jpg?s=1024x1024&w=is&k=20&c=kLxwJUmGEBw_PUZmmTk7wfeiox_TVqtskwlkICbLgg0=" alt=" not found" />
              <div>
                <p className="text-xs uppercase text-red-600 tracking-wide mb-2"> Bound - Trolola</p>
-                <h3 className="text-2xl font-bold"> Jone Duone Joe</h3>
-                <p className="text-base tracking-wide text-gray-500"> Operation Officer</p>
-             </div>
-             </div>
-             <div className="w-[60%] h-full ">
-               <img className="w-[20%]" src="public/quote.png" alt="not found" />
-                <div className="w-full h-[70%] py-10 bg-gradient-to-r from-[#1e2024] shadow-shadowOne p-8 ">
-                  <div className="flex justify-between items-center by-6 border-b-2 border-b-gray-900 pb-10">
-                     <div>
-                         <h3 className="text-3xl font-medium tracking-wide"> Travel Mobile App Design.</h3>
-                         <p className="text-lg text-gray-400 mt-3"> Via UpWork - Mar 4, 2015 -Aug 30, 2021 test</p>
-                     </div>
-                      <div className="flex gap-1  text-yellow-500">
-                      <IoStarSharp />
-                      <IoStarSharp />
-                      <IoStarSharp />
-                      <IoStarSharp />
-                      <IoStarSharp />
-                      </div>
-                  </div>
-                  <p className="text-lg font-titleFont text-gray-400 font-medium tracking-wide leading-6 pt-[20px]"> 
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere in accusantium consequatur mollitia corporis blanditiis, voluptatibus soluta ipsam deleniti quae perferendis ratione voluptatum cupiditate iusto placeat assumenda perspiciatis quibusdam praesentium?
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className='w-full'>
-            <div className='w-full h-[500px] flex justify-between'>
-             <div className="w-[35%] h-full bg-gradient-to-r from-[#1e2024] to-[#23272b] p-8 rounded-lg  shadow-shadowOne flex flex-col gap-8 justify-center">
-             <img className="h-72 rounded-lg object-cover" src="public/download (6).jpg" alt=" not found" />
-             <div>
-               <p className="text-xs uppercase text-red-600 tracking-wide mb-2"> Bound - Trolola</p>
-                <h3 className="text-2xl font-bold"> Jone Duone Joe</h3>
+                <h3 className="text-2xl font-bold">Rashid Khan </h3>
                 <p className="text-base tracking-wide text-gray-500"> Operation Officer</p>
              </div>
              </div>

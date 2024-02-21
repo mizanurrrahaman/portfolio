@@ -7,6 +7,7 @@ import { SiProgress, SiAntdesign } from "react-icons/si";
 import { FaBars } from "react-icons/fa";
 
 
+
 const Features = () => {
   return (
     <section
@@ -21,7 +22,7 @@ const Features = () => {
       <Card title="App Development"
         des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad"
          icon={<AiFillAppstore />}/>
-      <Card title="SEO Optimisation"
+      <Card title="web design"
            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad"
            icon={<SiProgress />}/>
       <Card title="UX Design"
